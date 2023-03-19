@@ -4,6 +4,7 @@ import ReactDOM from "react-dom/client";
 import { RouterProvider } from "react-router-dom";
 import "./index.css";
 import { router } from "./router";
+import "stream-chat-react/dist/css/index.css";
 
 const queryClient = new QueryClient();
 
